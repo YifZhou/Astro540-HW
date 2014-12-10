@@ -1,0 +1,27 @@
+\documentclass[preprint]{aastex}
+\synctex=1
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb,amstex}
+\usepackage{natbib}
+\shorttitle{Astro 540 Term Paper}
+\shortauthors{Yifan Zhou}
+\slugcomment{Astro 540 Term Paper}
+
+\begin{document}
+\title{The Mass of the Milky Way}
+\author{Yifan Zhou}
+\affil{University of Arizona}
+\email{yifzhou@email.arizona.edu}
+
+\section{Introduction}
+
+\section{Rotation Curves}
+\section{Other Constrains}
+\section{Mass Models}
+\section{Discussion}
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

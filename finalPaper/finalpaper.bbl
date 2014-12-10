@@ -1,0 +1,29 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+\providecommand{\doi}[1]{doi: #1}\else
+\providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\bibitem[{Brand} and {Blitz}(1993)]{1993A&A...275...67B}J.~{Brand} and L.~{Blitz}.\newblock {The Velocity Field of the Outer Galaxy}.\newblock \emph{\aap}, , \& 275:\penalty0 67, Aug.  1993.
+
+\bibitem[{Dehnen} and {Binney}(1998)]{1998MNRAS.298..387D}W.~{Dehnen} and J.~J. {Binney}.\newblock {Local stellar kinematics from HIPPARCOS data}.\newblock \emph{\mnras}, , \& 298:\penalty0 387--394, Aug.  1998.\newblock \doi{10.1046/j.1365-8711.1998.01600.x}.
+
+\bibitem[{Malhotra}(1994)]{1994ApJ...433..687M}S.~{Malhotra}.\newblock {The vertical equilibrium of molecular gas in the Galactic disk}.\newblock \emph{\apj}, , \& 433:\penalty0 687--704, Oct.  1994.\newblock \doi{10.1086/174677}.
+
+\bibitem[{Malhotra}(1995)]{1995ApJ...448..138M}S.~{Malhotra}.\newblock {The Vertical Distribution and Kinematics of H i and Mass Models ofthe Galactic Disk}.\newblock \emph{\apj}, , \& 448:\penalty0 138, July  1995.\newblock \doi{10.1086/175946}.
+
+\bibitem[{McMillan}(2011)]{2011MNRAS.414.2446M}P.~J. {McMillan}.\newblock {Mass models of the Milky Way}.\newblock \emph{\mnras},  2446--2457, July 2011.\newblock \doi{10.1111/j.1365-2966.2011.18564.x}.
+
+\bibitem[{Pont} et~al.(1997)]{1997A&A...318..416P}F.~{Pont}, D.~{Queloz}, P.~{Bratschi}, and M.~{Mayor}.\newblock {Rotation of the outer disc from classical cepheids.}\newblock \emph{\aap}, \&  318:\penalty0 416--428, Feb.  1997.
+
+\bibitem[{Reid} et~al.(2009)]{2009ApJ...700..137R}M.~J. {Reid}, K.~M. {Menten},  X.~W. {Zheng}, A.~{Brunthaler}, {et~al.} 2009.\newblock \doi{10.1088/0004-637X/700/1/137}.
+
+\bibitem[{Smith} et~al.(2007)]{2007MNRAS.379..755S}M.~C. {Smith}, G.~R. {Ruchti},  A.~{Helmi}, R.~F.~G. {Wyse}, {et~al.} 2007.\newblock \doi{10.1111/j.1365-2966.2007.11964.x}.
+
+\bibitem[{Sofue}(2013)]{2013pss5.book..985S}Y.~{Sofue}.\newblock \emph{{Mass Distribution and Rotation Curve in the Galaxy}}, page 2013.\newblock \doi{10.1007/978-94-007-5612-0\_19}.
+
+\bibitem[{Watkins} et~al.(2010)]{2010MNRAS.406..264W}L.~L. {Watkins}, N.~W. {Evans}, and J.~H. {An}.\newblock {The masses of the Milky Way and Andromeda galaxies}.\newblock \emph{\mnras}, , \& 406:\penalty0 264--278, July  2010.\newblock \doi{10.1111/j.1365-2966.2010.16708.x}.
+
+\bibitem[{Xue} et~al.(2008)]{2008ApJ...684.1143X}X.~X. {Xue}, H.~W. {Rix},  G.~{Zhao}, P.~{Re Fiorentin}, {et~al.} 2400 SDSS BlueHorizontal-Branch Stars.\newblock \emph{\apj}, 684:\penalty0 1143--1158, Sept. 2008.\newblock \doi{10.1086/589500}.
+
+\end{thebibliography}

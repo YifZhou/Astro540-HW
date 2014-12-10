@@ -1,0 +1,265 @@
+\documentclass[preprint]{aastex}
+\synctex=1
+\usepackage{graphicx}
+\usepackage{amssymb,amsmath}
+\usepackage{natbib}
+\shorttitle{Astro 540 Term Paper}
+\shortauthors{Yifan Zhou}
+\slugcomment{Astro 540 Term Paper}
+
+\begin{document}
+\bibliographystyle{abbrvnat}
+\title{The Mass of the Milky Way}
+\author{Yifan Zhou}
+\affil{University of Arizona}
+\email{yifzhou@email.arizona.edu}
+
+\begin{abstract}
+Mass is one of the most essential properties of the Milky Way. Mass is
+measured with the combination of observed dynamics and theoretical
+structures. In paper, I introduced the major techniques to measure the
+rotation curve of the Milky Way and other observational constrains of
+the mass of the Milky Way. I gave a brief overview of the mass models
+of the galaxy. And finally I discussed about the limitation of the
+measurement and potential improvements.  
+\end{abstract}
+
+\section{Introduction}
+
+Mass is one of the most fundamental properties of the Milky Way. Since
+the Milky Way is a system that is bond by gravity, its mass is a major
+driver of the Milky Way's dynamic evolution. On the other hand, the
+mass distribution of the Milky Way provided us a most direct view of
+the structure of the Milky Way. Also, comparing the mass measured from
+kinematic with the matter that we can see in the Milky Way, we can
+obtain the mass to light ratio in the Milky Way, which tells us
+whether there is dark matter in the Milky Way.
+
+The essentiality of mass in our understanding of the Milky Way calls
+for a precise measurement. In most of the cases, to measure the mass
+of the Milky Way is to measure the gravity it generates. Thus the most
+straight forward scale of mass is the rotation curve, because in the
+first order, the gravity's role is control the matter to orbit in the
+galaxy. Many techniques are developed to measure the rotation curve at
+different galactocentric radii. Except for rotation curves, more
+complicated effects of gravity such as tidal effect could also provide
+us with observational constrains of the mass.
+
+However, dynamic measurement itself cannot provide us with the
+mass. Galaxies with different mass could possibly provide the same
+rotation curve if they have different mass distribution. Therefore, we
+need mass models. Mass models represent our abstract recognition of
+the galaxy, describe the construction of the Milky Way and the
+profiles of different component. To connect theoretical model with
+observational measurement, we can define the free parameters in the
+models, including the most important one, mass.
+
+\section{Rotation Curves}
+
+The principle of mass measurement with
+rotation curves is simple.
+
+\begin{equation}
+  \label{eq:vc} vc^{2}=-\nabla_{r}\Phi
+\end{equation}
+
+Equation \ref{eq:vc} is also easy to be decomposed with
+different components. The geometry of Rotation curve measurement is
+also as straight forward. As shown in figure \ref{fig:tri}, if the
+distance $r$ and radial velocity $v_{r}$of a specific object with
+galactic longitude $l$ are known, and if we assume that we know the
+position ($R_{0}$)and the motion ($v_{0}$)of sun in the Milky Way, we
+can easily calculate the velocity $v(R)$ and orbit radius $R$ of it
+with equation \ref{eq:tri} \cite{2013pss5.book..985S}. However the measurement of
+distance and velocity could be difficult.
+
+\begin{equation}
+  \label{eq:tri}
+  \begin{split} &R = \sqrt{r^{2} + R_{0}^{2} - 2rR_{0}\cos l}\\ &v(R)
+= \frac{R}{R_{0}}\left(\frac{v_{r}}{\sin l}+v_{0}\right)
+  \end{split}
+\end{equation}
+
+\begin{figure}[!t] \centering \plotone{tri}
+  \caption{Rotation curve measurement and tangential point diagram
+\cite{2013pss5.book..985S}}
+  \label{fig:tri}
+\end{figure}
+
+\subsection{Rotation curve inside of the solar circle}
+
+  For the region that is inside of the solar circle, tangential point
+provide us with a shortcut of rotation curve measurement. For this
+region, the rotation curve is often measured with H I 21 cm line or CO
+lines. If we observe H I 21 cm line with a specific galactic longitude
+$l$, the maximum radial velocity $v_{r,\rm max}$will fall on the
+tangential point as shown in the right panel of figure
+\ref{fig:tri}. Thus equation \ref{eq:tri} can be simplified as,
+  \begin{equation}
+    \label{eq:tan}
+    \begin{split} &v(R)=v_{r, \rm max}+v_{0}\sin l\\ &R=R_{0}\sin l
+      \end{split}
+    \end{equation}
+    which means we do not need to worry about distance
+measurement.\par
+
+    As an example, \citet{1994ApJ...433..687M, 1995ApJ...448..138M} used H I 21 cm
+line to measure the rotation curves. In this measurement, the velocity
+dispersion is smaller than 9 km s$^{-1}$.
+    % \begin{figure} % \centering % \plotone{inner}
+    % \caption{Terminal velocity measured inside of the solar %
+circle. $V_{\rm T} = v(R)-v_{0}\sin l$ % cite{}}
+    % \label{fig:inner}
+    % \end{figure}
+%
+    \subsection{Rotation curve outside of solar circle}
+    
+    The tangential point disappears in the outer region of the Milky
+Way. Therefore the distance measurement becomes important in this
+circumstances. \par
+
+   \citet{1993A&A...275...67B} used H II region and reflection nebulae to
+measure the rotation curves. The distance of the region was measured
+by photometric and spectroscopic fitting. The expand the boundary of
+rotation curves to around $2R_{0}$.\par
+
+    \citet{1997A&A...318..416P} gived the radial velocities and photometry for
+Cepheids in the outer disk. For Cepheids stars, the distance could be
+calculated with the period-luminosity relation. \par
+
+    There were other methods being proposed to measure the rotation
+curves in outer disk, e.g. using the H I 21 cm lines. However, there
+are still large uncertainties and biases for the distance measurement.
+%
+
+\subsection{Result}
+
+Combine several measurements together, a
+rotation curve within $2R_{0}$ could be obtained (figure
+\ref{fig:rc}). The most prominent feature on the rotation curve is its
+flatness in large radii, which is contradict with the disk model of
+the galaxy.
+
+     \begin{figure}[!t] \centering \plotone{rc}
+       \caption{Observed circular velocities representing the rotation
+curve of the galaxy \cite{2013pss5.book..985S}.}
+       \label{fig:rc}
+     \end{figure}
+     
+     \section{Other Constrains}
+          
+     Other observational constrains are brought in to improve the
+accuracy of the milky way mass measurement.
+     
+\subsection{Local constrains}
+
+For all the rotation curve measurements listed above, the rotation
+velocities and orbit radii are all based on sun's motion. However,
+solar motion and position are not well constrained as expected. For
+example, \citet{2009ApJ...700..137R} reported VLBI measurements of
+trigonometric parallaxes and proper motions for 18 masers located in
+several of the Galaxy’s spiral arms. These measurements yielded the
+circular rotation speed at the position of the Sun for
+$v_{r,0} = 254 \pm 16 \rm{km s−1}$, which is 15\% higher than the
+standard IAU 220kms$^{−1}$. Several other measurement did not reduce
+the scatter of the measurement.
+
+     Local surface density also provide constrain on model
+fitting. However, this value is also not well measured \cite{1998MNRAS.298..387D}.
+
+     \citet{2007MNRAS.379..755S} dug local information in another point of
+view. They used a sample of high-velocity stars from the RAdial
+Velocity Experiment to calculate the local escape speed.  Their result
+demonstrates that the local escape speed is significantly higher than
+$\sqrt{2}v_{c}$, which gives a hint of the dark matter halo.
+
+\subsection{Kinematic tracer at large radii}
+
+The rotation curves are roughly limited at the radius of 2 times of
+the solar orbit radius. However, observations indicate that this
+radius is still far from the edge of the galaxy, especially for the
+mysterious dark matter halo. Thus mass measurement at large radii is
+urgently needed.
+
+     \citet{2008ApJ...684.1143X} used Blue Horizontal Branch (BHB) stars to push the
+edge of the galaxy mass measurement to 60 kpc. BHB stars are not only
+very bright, but have small scatter in luminosity. Therefore they
+would provide a very good photometric distance measurement at large
+distance. With BHB stars observation, they derived a rotation curve
+by comparing their data with mock observations of simulated galaxies
+at such large radius.
+
+     As satellite galaxies gradually becomes well-known, they are also
+used as a mass tracer. \citet{2010MNRAS.406..264W} took a sample consisting of 26
+satellite galaxies with line-of-sight velocities to estimate the mass
+of the Milky Way within a radius of 300 kpc.
+     
+\section{Mass Models}
+Mass models are the prior assumption of the
+mass distribution of the Milky Way. Generally, mass models always have
+three components, the bulge, disk and dark matter halo. Mass Modeling
+is possible because the gas particles and stars are sensitive to the
+full potential contributed by both baryon and dark matter. If we
+decompose the total circular velocity,
+     \begin{equation} v_{c} \sim \sqrt{v_{\rm gas}^{2}+v_{\rm
+star}^{2} + v_{\rm halo}^{2}}
+     \end{equation} Gas and star component could come from the
+observation of luminous matter. Halo components on the other hand
+comes from the total circular velocity subtracted the star and halo
+part. Each component has different mass distribution profile, ending
+up with different format of gravity potential.
+
+     Bulge is studied with the observation in the galactic
+center. Proper motion studies in the near infrared have revealed
+individual orbits of stars within the central 0.1 pc
+\cite{2013pss5.book..985S}. Outside the very nuclear region, radial velocity of
+OH and SiO maser lines from IR stars in the galactic center region are
+used to study the kinematics. From these study, the bulge is revealed
+to have a near-prolate, triaxial rotating profile. However in the
+modeling, axisymmetric approximation is often
+applied \cite{2011MNRAS.414.2446M}.
+
+     From the observation luminous matter, e.g. star number density,
+the Milky Way's disk is usually considered to have two components, the
+thin disk and the thick disk. The two disk are always modeled with
+exponential profile with different scale height and scale length.
+
+     The flatness of rotation curve at large radii implies there is
+huge mass in the Milky Way that we don't see. These mass is modeled
+with dark matter halo. On observational side, the only trace of dark
+matter is the dynamics at large radii. On theoretical side,
+simulations provide the profile of the dark matter halo. In the mass
+Model, NFW profile is often used.
+
+     In the model, several parameters related to mass, including local
+disk surface density, local dark matter density, bulge density. These
+parameter are fixed by fitting the observation rotation curve to the
+model. Then the mass could be calculated.
+     
+     \section{Discussion} In recent studies, the results of mass
+measurement fall in the range around $10^{12} M_{\odot}$. However, the
+scatter is considerable. Several improvement could be made for the
+precision of the mass measurement.
+
+     The rotation curve at outer disk could be the first
+consideration. GAIA is starting a new era of parallax measurement, and
+is going to provide with more accurate distance at larger radius.
+
+     The mass estimators on the edge of the galaxy need to be further
+studied, Since they are the best constrain of the dark matter
+halo. Except for the contribution in mass measurement, these study
+could disclose more information of the property of the halo and dark
+matter itself.
+
+     The limitations of the mass models also need to be overcome. The
+most thorny issue of mass modeling is the intrinsic degeneracy of the
+model solution due to strong covariances between the disk and halo
+model parameters. To break the degeneracy, we need more observation
+constrains.
+\bibliography{ref.bib}
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

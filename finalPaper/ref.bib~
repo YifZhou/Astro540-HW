@@ -1,0 +1,217 @@
+@ARTICLE{2014RvMP...86...47C,
+   author = {{Courteau}, S. and {Cappellari}, M. and {de Jong}, R.~S. and 
+	{Dutton}, A.~A. and {Emsellem}, E. and {Hoekstra}, H. and {Koopmans}, L.~V.~E. and 
+	{Mamon}, G.~A. and {Maraston}, C. and {Treu}, T. and {Widrow}, L.~M.
+	},
+    title = "{Galaxy masses}",
+  journal = {Reviews of Modern Physics},
+archivePrefix = "arXiv",
+   eprint = {1309.3276},
+ keywords = {Mass and mass distribution, Statistical and correlative studies of properties, Mass and density},
+     year = 2014,
+    month = jan,
+   volume = 86,
+    pages = {47-119},
+      doi = {10.1103/RevModPhys.86.47},
+   adsurl = {http://adsabs.harvard.edu/abs/2014RvMP...86...47C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013ApJ...777..154D,
+   author = {{Deason}, A.~J. and {Conroy}, C. and {Wetzel}, A.~R. and {Tinker}, J.~L.
+	},
+    title = "{Stellar Mass-gap as a Probe of Halo Assembly History and Concentration: Youth Hidden among Old Fossils}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1306.3990},
+ primaryClass = "astro-ph.CO",
+ keywords = {galaxies: clusters: general, galaxies: evolution, galaxies: formation, galaxies: groups: general, galaxies: halos, galaxies: star formation, methods: numerical},
+     year = 2013,
+    month = nov,
+   volume = 777,
+      eid = {154},
+    pages = {154},
+      doi = {10.1088/0004-637X/777/2/154},
+   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...777..154D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INBOOK{2013pss5.book..985S,
+   author = {{Sofue}, Y.},
+    title = "{Mass Distribution and Rotation Curve in the Galaxy}",
+ keywords = {Physics},
+booktitle = {Planets, Stars and Stellar Systems.~Volume 5: Galactic Structure and Stellar Populations},
+     year = 2013,
+   editor = {{Oswalt}, T.~D. and {Gilmore}, G.},
+    pages = {985},
+      doi = {10.1007/978-94-007-5612-0_19},
+   adsurl = {http://adsabs.harvard.edu/abs/2013pss5.book..985S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012MNRAS.420.2562A,
+   author = {{An}, J. and {Evans}, N.~W. and {Deason}, A.~J.},
+    title = "{Mass estimators in the Gaia era}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1111.2989},
+ primaryClass = "astro-ph.GA",
+ keywords = {galaxies: fundamental parameters, galaxies: general, galaxies: haloes, galaxies: kinematics and dynamics, dark matter},
+     year = 2012,
+    month = mar,
+   volume = 420,
+    pages = {2562-2568},
+      doi = {10.1111/j.1365-2966.2011.20226.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2012MNRAS.420.2562A},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011MNRAS.414.2446M,
+   author = {{McMillan}, P.~J.},
+    title = "{Mass models of the Milky Way}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1102.4340},
+ primaryClass = "astro-ph.GA",
+ keywords = {methods: statistical, Galaxy: fundamental parameters, Galaxy: kinematics and dynamics},
+     year = 2011,
+    month = jul,
+   volume = 414,
+    pages = {2446-2457},
+      doi = {10.1111/j.1365-2966.2011.18564.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.414.2446M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011ApJ...730L..26E,
+   author = {{Evans}, N.~W. and {An}, J. and {Deason}, A.~J.},
+    title = "{Accurate Mass Estimators for Navarro-Frenk-White Halos}",
+  journal = {\apjl},
+archivePrefix = "arXiv",
+   eprint = {1102.1608},
+ primaryClass = "astro-ph.CO",
+ keywords = {dark matter, galaxies: halos, galaxies: kinematics and dynamics},
+     year = 2011,
+    month = apr,
+   volume = 730,
+      eid = {L26},
+    pages = {L26},
+      doi = {10.1088/2041-8205/730/2/L26},
+   adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...730L..26E},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009ApJ...700..137R,
+   author = {{Reid}, M.~J. and {Menten}, K.~M. and {Zheng}, X.~W. and {Brunthaler}, A. and 
+	{Moscadelli}, L. and {Xu}, Y. and {Zhang}, B. and {Sato}, M. and 
+	{Honma}, M. and {Hirota}, T. and {Hachisuka}, K. and {Choi}, Y.~K. and 
+	{Moellenbrock}, G.~A. and {Bartkiewicz}, A.},
+    title = "{Trigonometric Parallaxes of Massive Star-Forming Regions. VI. Galactic Structure, Fundamental Parameters, and Noncircular Motions}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {0902.3913},
+ primaryClass = "astro-ph.GA",
+ keywords = {astrometry, Galaxy: fundamental parameters, Galaxy: halo, Galaxy: kinematics and dynamics, Galaxy: structure, stars: formation},
+     year = 2009,
+    month = jul,
+   volume = 700,
+      eid = {137},
+    pages = {137-148},
+      doi = {10.1088/0004-637X/700/1/137},
+   adsurl = {http://adsabs.harvard.edu/abs/2009ApJ...700..137R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2007MNRAS.379..755S,
+   author = {{Smith}, M.~C. and {Ruchti}, G.~R. and {Helmi}, A. and {Wyse}, R.~F.~G. and 
+	{Fulbright}, J.~P. and {Freeman}, K.~C. and {Navarro}, J.~F. and 
+	{Seabroke}, G.~M. and {Steinmetz}, M. and {Williams}, M. and 
+	{Bienaym{\'e}}, O. and {Binney}, J. and {Bland-Hawthorn}, J. and 
+	{Dehnen}, W. and {Gibson}, B.~K. and {Gilmore}, G. and {Grebel}, E.~K. and 
+	{Munari}, U. and {Parker}, Q.~A. and {Scholz}, R.-D. and {Siebert}, A. and 
+	{Watson}, F.~G. and {Zwitter}, T.},
+    title = "{The RAVE survey: constraining the local Galactic escape speed}",
+  journal = {\mnras},
+   eprint = {astro-ph/0611671},
+ keywords = {Galaxy: fundamental parameters, Galaxy: kinematics and dynamics},
+     year = 2007,
+    month = aug,
+   volume = 379,
+    pages = {755-772},
+      doi = {10.1111/j.1365-2966.2007.11964.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2007MNRAS.379..755S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1998MNRAS.298..387D,
+   author = {{Dehnen}, W. and {Binney}, J.~J.},
+    title = "{Local stellar kinematics from HIPPARCOS data}",
+  journal = {\mnras},
+   eprint = {astro-ph/9710077},
+ keywords = {STARS: KINEMATICS, GALAXY: FUNDAMENTAL PARAMETERS, GALAXY: KINEMATICS AND DYNAMICS, SOLAR NEIGHBOURHOOD, GALAXY: STRUCTURE},
+     year = 1998,
+    month = aug,
+   volume = 298,
+    pages = {387-394},
+      doi = {10.1046/j.1365-8711.1998.01600.x},
+   adsurl = {http://adsabs.harvard.edu/abs/1998MNRAS.298..387D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1997A&A...318..416P,
+   author = {{Pont}, F. and {Queloz}, D. and {Bratschi}, P. and {Mayor}, M.
+	},
+    title = "{Rotation of the outer disc from classical cepheids.}",
+  journal = {\aap},
+ keywords = {STARS: DISTANCE, KINEMATICS, CEPHEIDS, GALAXY: KINEMATICS AND DYNAMICS},
+     year = 1997,
+    month = feb,
+   volume = 318,
+    pages = {416-428},
+   adsurl = {http://adsabs.harvard.edu/abs/1997A%26A...318..416P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1995ApJ...448..138M,
+   author = {{Malhotra}, S.},
+    title = "{The Vertical Distribution and Kinematics of H i and Mass Models of the Galactic Disk}",
+  journal = {\apj},
+   eprint = {astro-ph/9411088},
+ keywords = {GALAXY: KINEMATICS AND DYNAMICS, GALAXY: STRUCTURE, RADIO LINES: ISM},
+     year = 1995,
+    month = jul,
+   volume = 448,
+    pages = {138},
+      doi = {10.1086/175946},
+   adsurl = {http://adsabs.harvard.edu/abs/1995ApJ...448..138M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1994ApJ...433..687M,
+   author = {{Malhotra}, S.},
+    title = "{The vertical equilibrium of molecular gas in the Galactic disk}",
+  journal = {\apj},
+   eprint = {astro-ph/9404028},
+ keywords = {Astronomical Models, Carbon Monoxide, Emission Spectra, Equilibrium, Galactic Structure, Molecular Gases, Scale Height, Velocity Distribution, Computerized Simulation, Density (Mass/Volume), Error Analysis, Kinematics, Radio Astronomy, Radio Spectra, Sky Surveys (Astronomy)},
+     year = 1994,
+    month = oct,
+   volume = 433,
+    pages = {687-704},
+      doi = {10.1086/174677},
+   adsurl = {http://adsabs.harvard.edu/abs/1994ApJ...433..687M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1993A&A...275...67B,
+   author = {{Brand}, J. and {Blitz}, L.},
+    title = "{The Velocity Field of the Outer Galaxy}",
+  journal = {\aap},
+ keywords = {Galaxy: kinematics and dynamics, Galaxy: structure},
+     year = 1993,
+    month = aug,
+   volume = 275,
+    pages = {67},
+   adsurl = {http://adsabs.harvard.edu/abs/1993A%26A...275...67B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
